@@ -1,0 +1,9 @@
+.bottle-main-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.purchase-product-container img {
+  width: 200px;
+  border-radius: 10px;
+}
